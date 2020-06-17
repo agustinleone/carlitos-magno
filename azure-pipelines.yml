@@ -42,4 +42,3 @@
     - "*"
   variables: 
     buildConfiguration: Release
-  
